@@ -1,0 +1,23 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "Dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "CyndyTech",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.28.1",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
